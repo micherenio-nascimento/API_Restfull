@@ -4,6 +4,7 @@
 ## REST (Boas práticas[TEORIA])
 - Rest é um padrão, um __conceito ARQUITETURAL__ e um conjunto de boa práticas.
     - Outros padrões são:
+      
     ![api_architecture_styles](/img/api_architecture_styles.png)
         
 ## RESTFULL (Implementação de REST numa API [PRÁTICA])
