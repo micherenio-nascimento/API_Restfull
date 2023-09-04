@@ -1,7 +1,7 @@
 # API
     API é uma aplicação cliente-servidor que permitea interoperabilidade entre sistemas 
 
-## REST (Boas tráticas[TEORIA])
+## REST (Boas práticas[TEORIA])
 - Rest é um padrão, um __conceito ARQUITETURAL__ e um conjunto de boa práticas.
     - Outros padrão são:
     ![api_architecture_styles](/img/api_architecture_styles.png)
