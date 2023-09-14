@@ -7,12 +7,12 @@ services:
       MYSQL_USER: user
       MYSQL_ROOT_PASSWORD: 1234
     ports:
-      # <Porta exposta> : <Porta rodando dentro do contêiner>
+      
       - '3306:3306'
     expose:
-      # Abre a porta 3306 no contêine
+      
       - '3306'
-      # Onde nossos dados serão persistidos
+      
     volumes:
       - my-db:/var/lib/mysql
 volumes:
