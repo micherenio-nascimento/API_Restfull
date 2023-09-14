@@ -1,5 +1,5 @@
 # API
-    API é uma aplicação cliente-servidor que permitea interoperabilidade entre sistemas 
+    API é uma aplicação cliente-servidor que permite a interoperabilidade entre sistemas 
 
 ## REST (Boas práticas[TEORIA])
 - Rest é um padrão, um __conceito ARQUITETURAL__ e um conjunto de boa práticas.
@@ -8,9 +8,9 @@
     ![api_architecture_styles](/img/api_architecture_styles.png)
         
 ## RESTFULL (Implementação de REST numa API [PRÁTICA])
-    Uma API para ser conciderada RESTful precisa ter a __Maturidade de Richardson__
+    Uma API para ser conciderada RESTfull precisa ter a Maturidade de Richardson
 
-### Maturidade de Richardson
+### Maturidade de Richardson:
 #### Os 4 pilares/níveis:
 - Nível 0: Fazer uso do protocolo HTTP para __*comunicação*__.
 
