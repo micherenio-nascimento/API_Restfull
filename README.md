@@ -20,3 +20,6 @@
 - Nível 2: Uso do HTTP com o uso correto dos seus verbos (POST, GET, PUT, DEL) e o uso dos retornos(status code) 200, 500, 404.
 
 - Nível 3: Uso de HATEOAS(Guias(links) dentro da api para mostrar as relações dos recursos)
+
+## Categoria
+**backend**
